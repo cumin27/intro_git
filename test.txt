@@ -1,1 +1,1 @@
-amend
+featureで修正
